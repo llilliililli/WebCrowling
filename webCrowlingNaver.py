@@ -7,7 +7,6 @@ import time
 
 
 # 크롤링 로그인( 세션 )
-
 LOGIN_NAVER = "https://nid.naver.com/nidlogin.login?mode=form&url=https://www.naver.com/"
 NAVER = "https://www.naver.com/"
 
